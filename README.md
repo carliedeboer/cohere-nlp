@@ -1,1 +1,1 @@
-# cohere
+# cohere-nlp
